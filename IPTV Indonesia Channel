@@ -2,57 +2,36 @@
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 
 #EXTINF:-1,GTV
-http://chostv.mobie.in/files/iptv/gtv.m3u8
-
-#EXTINF:-1,GTV Alternative
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 
 #EXTINF:-1,Indosiar
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8
 
 #EXTINF:-1,iNews TV
-http://chostv.mobie.in/files/iptv/inews.m3u8
-
-#EXTINF:-1,iNews TV Alternative
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 
 #EXTINF:-1,Kompas TV
-http://103.130.186.138:8800/oxygenplay/kompastv/index.m3u8
-
-#EXTINF:-1,Kompas TV Alternative
-http://210.210.155.35/qwr9ew/s/s104/02.m3u8
+http://210.210.155.35/session/ded260b0-7cc9-11eb-a3a5-acf5bfe1725f/qwr9ew/s/s104/02.m3u8
 
 #EXTINF:-1,Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1,MNC TV
-http://chostv.mobie.in/files/iptv/mnctv.m3u8
-
-#EXTINF:-1,MNC TV Alternative
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 
 #EXTINF:-1,NET.
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
 #EXTINF:-1,RCTI
-http://chostv.mobie.in/files/iptv/rcti.m3u8
-
-#EXTINF:-1,RCTI Alternative
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 
 #EXTINF:-1,RTV
-http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,RTV Alternative
-http://210.210.155.35/qwr9ew/s/s12/02.m3u8
+http://210.210.155.35/session/30b3b6fe-7cca-11eb-8aa1-83189bbb23a2/qwr9ew/s/s12/02.m3u8
 
 #EXTINF:-1,SCTV
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 
 #EXTINF:-1,Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-
-#EXTINF:-1,Trans 7 Alternative
 http://210.210.155.35/qwr9ew/s/s101/02.m3u8
 
 #EXTINF:-1,Trans TV
@@ -76,9 +55,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1,DAAI TV
 http://210.210.155.35/qwr9ew/s/s13/02.m3u8
 
-#EXTINF:-1,DAAI TV Alternative
-https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
-
 #EXTINF:-1,Elshinta TV
 http://210.210.155.35/qwr9ew/s/s10/01.m3u8
 
@@ -90,3 +66,4 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1,Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
+
