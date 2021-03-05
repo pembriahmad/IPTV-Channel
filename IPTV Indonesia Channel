@@ -67,3 +67,5 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1,Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 
+#EXTINF:-1,TV 9 NUSANTARA
+http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
