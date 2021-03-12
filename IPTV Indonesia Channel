@@ -156,25 +156,25 @@ https://livestreaming-swiftserve-etslive.vidio.com/live/6686/master.m3u8
 https://livestreaming-swiftserve-etslive.vidio.com/live/6786/master.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsportsxtra.png" group-title="Sports", [EN] BEIN SPORTS Extra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/a7/a7/80a7a70d83fa29bb8aee10f59f6c26e0.png" group-title="Sports", [AR] Bein Sports 1 Premium
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beinsport1.png" group-title="Sports", [AR] Bein Sports 1
 http://red.ipfox.org:8080/Karim2_534341/40036069/2247
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/a7/a7/80a7a70d83fa29bb8aee10f59f6c26e0.png" group-title="Sports", [AR] Bein Sports 2 Premium
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beinsport2.png" group-title="Sports", [AR] Bein Sports 2
 http://red.ipfox.org:8080/Karim2_534341/40036069/2248
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/a7/a7/80a7a70d83fa29bb8aee10f59f6c26e0.png" group-title="Sports", [AR] Bein Sports 3 Premium
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beinsport3.png" group-title="Sports", [AR] Bein Sports 3
 http://red.ipfox.org:8080/Karim2_534341/40036069/2249
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/a7/a7/80a7a70d83fa29bb8aee10f59f6c26e0.png" group-title="Sports", [AR] Bein Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beinsport4.png" group-title="Sports", [AR] Bein Sports 4
 http://red.ipfox.org:8080/Karim2_534341/40036069/2250
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/a7/a7/80a7a70d83fa29bb8aee10f59f6c26e0.png" group-title="Sports", [AR] Bein Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beinsport5.png" group-title="Sports", [AR] Bein Sports 5
 http://red.ipfox.org:8080/Karim2_534341/40036069/2251
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/a7/a7/80a7a70d83fa29bb8aee10f59f6c26e0.png" group-title="Sports", [AR] Bein Sports 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beinsport6.png" group-title="Sports", [AR] Bein Sports 6
 http://red.ipfox.org:8080/Karim2_534341/40036069/2252
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/a7/a7/80a7a70d83fa29bb8aee10f59f6c26e0.png" group-title="Sports", [AR] Bein Sports 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beinsport7.png" group-title="Sports", [AR] Bein Sports 7
 http://red.ipfox.org:8080/Karim2_534341/40036069/2253
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/a7/a7/80a7a70d83fa29bb8aee10f59f6c26e0.png" group-title="Sports", [AR] Bein Sports 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beinsport8.png" group-title="Sports", [AR] Bein Sports 8
 http://red.ipfox.org:8080/Karim2_534341/40036069/2254
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/a7/a7/80a7a70d83fa29bb8aee10f59f6c26e0.png" group-title="Sports", [AR] Bein Sports 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beinsport9.png" group-title="Sports", [AR] Bein Sports 9
 http://red.ipfox.org:8080/Karim2_534341/40036069/2255
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/a7/a7/80a7a70d83fa29bb8aee10f59f6c26e0.png" group-title="Sports", [AR] Bein Sports 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beinsport10.png" group-title="Sports", [AR] Bein Sports 10
 http://red.ipfox.org:8080/Karim2_534341/40036069/2256
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports1.png" group-title="Sports", Fox Sport 1 
