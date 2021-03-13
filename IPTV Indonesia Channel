@@ -57,7 +57,7 @@ https://livestreaming-swiftserve-etslive.vidio.com/live/6711/master.m3u8
 #EXTINF:-1 tvg-id="jtv" tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="Indonesia", JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8
 #EXTINF:-1 tvg-id="balitv" tvg-logo="http://kamiselaluada.com/img/balitv.png" group-title="Indonesia", Bali TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Movies" tvg-logo="http://kamiselaluada.com/img/citrabioskop.png", Citra Bioskop
 https://livestreaming-swiftserve-etslive.vidio.com/live/6684/master.m3u8
@@ -83,6 +83,8 @@ http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/k-plus/pos/k-plus_300.png" group-title="Entertainment & Movies", K+
 http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zqtv.png" group-title="Entertainment & Movies", ZQ Drama
+http://iptv.zqstream.com/zqsport-gen/video.m3u8
 
 
 #EXTINF:-1 tvg-id="tvrisports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCerOB5Oz1cHGZeYvoCDO6AurGlr4DB_qM1Q&usqp=CAU.png" group-title="Sports",TVRI SPORTS
