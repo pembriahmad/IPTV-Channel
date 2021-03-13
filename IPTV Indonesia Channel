@@ -137,7 +137,7 @@ https://livestreaming-swiftserve-etslive.vidio.com/live/5075/master.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cna.png" group-title="News", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/GIGcX5K.png" group-title="",News", Berita Satu World
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bs.png" group-title="News",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cnnindo.png" group-title="News",CNN INDONESIA
