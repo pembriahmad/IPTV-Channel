@@ -85,10 +85,6 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", beIN Sport 1 Indonesia
-https://cdn14jtedge.useetv.com/joss/15/bein1/chunklist_w438148684_b1344100_sleng_kamiselaluada.m3u8?enc=uTDjNpJlwRSkSf-jvWQX4g&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615629607
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports2.png" group-title="Sports", beIN Sport 2 Indonesia
-https://cdn14jtedge.useetv.com/joss/15/bein2/chunklist_w702959227_b1344100_sleng_kamiselaluada.m3u8?enc=6_QprtkcSyeBEH-zhF8TqA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615631531
 #EXTINF:-1 tvg-id="tvrisports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCerOB5Oz1cHGZeYvoCDO6AurGlr4DB_qM1Q&usqp=CAU.png" group-title="Sports",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zqtv.png" group-title="Sports", ZQ Sport
