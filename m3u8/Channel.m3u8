@@ -114,8 +114,14 @@ http://iptv.zqstream.com/zqdrama-gen/video.m3u8
 http://45.126.83.51/session/90055b06-8541-11eb-a62f-aa80b65a4a6d/uq2663/h/h143/02.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cinemaworld.png" group-title="Entertainment & Movies", Cinema World
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMnS73mNKsfGEndtoQVWEpbFqC_8eJZ3MIrA&usqp=CAU.png" group-title="Entertainment & Movies", SBS In
-http://210.210.155.35/session/9b942186-84f7-11eb-96c5-ab5ab5646698/uq2663/h/h28/index.m3u8
+#EXTINF:-1 tvg-id="SBSInternational.kr" tvg-name="SBS International" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/JNmRU3V.png" tvg-url="" group-title="Entertainment & Movies",SBS International
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8
+#EXTINF:-1 tvg-id="SBSKNN.kr" tvg-name="SBS KNN" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/120px-KNN_logo.svg.png" tvg-url="" group-title="Entertainment & Movies",SBS KNN
+http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SBSPlus.kr" tvg-name="SBS Plus" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/lJdOstp.png" tvg-url="" group-title="Entertainment & Movies",SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/playlist.m3u8
+#EXTINF:-1 tvg-id="SBSStar.kr" tvg-name="SBS Star" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/S1YWrNd.jpg" tvg-url="" group-title="Entertainment & Movies",SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFMT70d1nFEiaqMsI24IfMvoF-5UcMRygwHg&usqp=CAU.png" group-title="Entertainment & Movies", Celestial Movie
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kbsworld.png" group-title="Entertainment & Movies", KBS World
@@ -164,6 +170,9 @@ http://red.ipfox.org:8080/Karim2_534341/40036069/2254
 http://red.ipfox.org:8080/Karim2_534341/40036069/2255
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beinsport10.png" group-title="Sports", [AR] Bein Sports 10
 http://red.ipfox.org:8080/Karim2_534341/40036069/2256
+#EXTINF:-1 tvg-id="PTVSports.pk" tvg-name="PTV Sports" tvg-country="PK" tvg-language="Urdu" tvg-logo="" tvg-url="" group-title="Sports",PTV Sports (360p)
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports1.png" group-title="Sports", Fox Sport 1 
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
