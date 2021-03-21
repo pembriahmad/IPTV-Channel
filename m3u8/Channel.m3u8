@@ -7,9 +7,9 @@ https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_256000=8-mp4a
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="Indonesia", iNEWS
 https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_256000=8-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="Indonesia", Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1811465334_b344100_sleng.m3u8
+http://210.210.155.35/session/f9102efc-8a30-11eb-a426-a1a295f93342/uq2663/h/h11/index.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="Indonesia", Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1826727276_b344100_sleng.m3u8
+http://210.210.155.35/session/0a30d1e0-8a32-11eb-94bd-86419dda831f/qwr9ew/s/s101/02.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antv.png" group-title="Indonesia", ANTV
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Indonesia", INDOSIAR
