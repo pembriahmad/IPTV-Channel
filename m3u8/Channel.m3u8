@@ -127,7 +127,7 @@ https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFMT70d1nFEiaqMsI24IfMvoF-5UcMRygwHg&usqp=CAU.png" group-title="Entertainment & Movies", Celestial Movie
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kbsworld.png" group-title="Entertainment & Movies", KBS World
-https://fikrulmkc.my.id/bagus/usee-kbsworld.m3u8
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbxD7m3fMB2AbikYSN4Z62tyrmpD2n5fMu4g&usqp=CAU.png" group-title="Entertainment & Movies", K-Drama
 http://210.210.155.35/session/f0d84244-84ed-11eb-8855-b82a72d63267/qwr9ew/s/s42/index.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kplus.png" group-title="Entertainment & Movies", K-PLUS
