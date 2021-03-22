@@ -94,6 +94,8 @@ http://45.126.83.51/session/f59ee8ac-8ae5-11eb-86c2-8144a241ef32/dr9445/h/h15/02
 http://210.210.155.35/session/f72df1be-8ae9-11eb-ba48-c81f66f89318/dr9445/h/h16/index.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/thrill.png" group-title="Entertainment & Movies", THRILL
 http://45.126.83.51/session/7d966bfe-8ae6-11eb-a4a8-94b39ae5a0a6/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/animax.png" group-title="Entertainment & Movies", Animax
+http://210.210.155.35/session/802f3bbc-8b2b-11eb-9468-c81f66f89318/uq2663/h/h18/index.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/aniplus.png" group-title="Entertainment & Movies", Aniplus
 http://45.126.83.51/session/6e82c4c2-8ae7-11eb-beb0-849e8e4d1c39/dr9445/h/h02/02.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/axn.png" group-title="Entertainment & Movies", AXN
