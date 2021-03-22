@@ -168,6 +168,8 @@ https://fikrulmkc.my.id/bagus/usee-foxsport1.m3u8
 https://fikrulmkc.my.id/bagus/usee-foxsport2.m3u8
 #EXTINF:-1 tvg-id=FOXSports3.my tvg-logo="https://i.imgur.com/VouoBXj.png" group-title="Sports",FOX SPORT 3
 https://fikrulmkc.my.id/bagus/usee-foxsport3.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nba.png" group-title="Sports", NBA
+https://fikrulmkc.my.id/bagus/usee-nba.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jakartaglobenews.png" group-title="News",JAKARTA GLOBE NEWS
