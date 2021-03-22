@@ -104,6 +104,8 @@ https://livestreaming-swiftserve-etslive.vidio.com/live/6402/master.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 #EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/tvn.png" group-title="Entertainment & Movies", tvN
 https://livestreaming-swiftserve-etslive.vidio.com/live/6362/master.m3u8
+#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/tvnmovies.png" group-title="Entertainment & Movies", tvN Movies
+https://fikrulmkc.my.id/bagus/usee-tvnmovies.m3u8
 #EXTINF:-1 group-title="Entertainment & Movies" tvg-logo="http://kamiselaluada.com/img/zing.png", ZING
 https://livestreaming-swiftserve-etslive.vidio.com/live/6747/master.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/arirang.png" group-title="Entertainment & Movies",ARIRANG
