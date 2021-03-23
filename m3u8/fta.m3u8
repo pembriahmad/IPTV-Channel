@@ -50,7 +50,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-48
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/hiindo.jpg" group-title="Indonesia",Hi Indo
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/index.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/mola.jpg", Mola TV Free
-https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
+https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/index.m3u8
 #EXTINF:-1 tvg-id="jtv" tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="Indonesia", JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8
 #EXTINF:-1 tvg-id="balitv" tvg-logo="http://kamiselaluada.com/img/balitv.png" group-title="Indonesia", Bali TV
@@ -185,6 +185,11 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1922065887_b
 http://rr.dens.tv/h/h23/index.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/arirang.png" group-title="News",ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0 tvg-id= tvg-name= tvg-logo="https://www.abc.net.au/core/assets/abchome.png" group-title="News", ABC Australia
+https://livestreaming-swiftserve-etslive.vidio.com/live/7150/master.m3u8
+#EXTINF:0 tvg-id= tvg-name= tvg-logo="https://pbs.twimg.com/profile_images/1168824925110620161/aClpPizp_400x400.jpg" group-title="News", EuroNews
+https://livestreaming-swiftserve-etslive.vidio.com/live/6412/master.m3u8
+
 
 
 
