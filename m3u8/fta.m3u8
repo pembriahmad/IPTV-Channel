@@ -58,6 +58,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-49
 
 
 
+#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/tvn.png" group-title="Entertainment & Movies", tvN
+https://livestreaming-swiftserve-etslive.vidio.com/live/6362/master.m3u8
+#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/tvnmovies.png" group-title="Entertainment & Movies", tvN Movies
+https://fikrulmkc.my.id/bagus/usee-tvnmovies.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zqtv.png" group-title="Entertainment & Movies", ZQ Drama
 http://iptv.zqstream.com/zqdrama-gen/video.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sonyone.png" group-title="Entertainment & Movies", Sony One
@@ -102,22 +106,46 @@ http://210.210.155.35/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cctv4.png" group-title="Entertainment & Movies",CCTV 4
 http://rr2.dens.tv/s/s19/index.m3u8
+#EXTINF:-1 group-title="Entertainment & Movies" tvg-logo="http://kamiselaluada.com/img/citrabioskop.png", Citra Bioskop
+https://livestreaming-swiftserve-etslive.vidio.com/live/6684/master.m3u8
+#EXTINF:-1 group-title="Entertainment & Movies" tvg-logo="http://kamiselaluada.com/img/citradrama.png", Citra Drama
+https://livestreaming-swiftserve-etslive.vidio.com/live/6401/master.m3u8
+#EXTINF:-1 group-title="Entertainment & Movies" tvg-logo="http://kamiselaluada.com/img/citradangdut.png", Citra Dangdut
+https://livestreaming-swiftserve-etslive.vidio.com/live/6587/master.m3u8
+#EXTINF:-1 group-title="Entertainment & Movies" tvg-logo="http://kamiselaluada.com/img/citraentertainment.png", Citra Entertainment
+https://livestreaming-swiftserve-etslive.vidio.com/live/6402/master.m3u8 
+#EXTINF:-1 group-title="Entertainment & Movies" tvg-logo="http://kamiselaluada.com/img/zing.png", ZING
+https://livestreaming-swiftserve-etslive.vidio.com/live/6747/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QJgyvB6/USEESPORTLOGO1.jpg" group-title="Sports", UseeSports
+https://fikrulmkc.my.id/bagus/usee-useesport.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QJgyvB6/USEESPORTLOGO1.jpg" group-title="Sports", UseeSports 2
+https://fikrulmkc.my.id/bagus/usee-useesports2.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions1.png" group-title="Sports", Champions 1
+https://livestreaming-swiftserve-etslive.vidio.com/live/6685/master.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="Sports", Champions 2
+https://livestreaming-swiftserve-etslive.vidio.com/live/6686/master.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="Sports", Champions 3
+https://livestreaming-swiftserve-etslive.vidio.com/live/6786/master.m3u8
 #EXTINF:-1 tvg-id="tvrisports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCerOB5Oz1cHGZeYvoCDO6AurGlr4DB_qM1Q&usqp=CAU.png" group-title="Sports",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zqtv.png" group-title="Sports", ZQ Sport
 http://iptv.zqstream.com/zqsport-gen/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beinsport1.png" group-title="Sports", Bein Sports 1
+https://fikrulmkc.my.id/bagus/usee-bein1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beinsport2.png" group-title="Sports", Bein Sports 2
+https://fikrulmkc.my.id/bagus/usee-bein2.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsportsxtra.png" group-title="Sports", BEIN SPORTS Extra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRblAvNv8QndYSFDCsJbhgxX-SHUPAonwvk3g&usqp=CAU.png" group-title="Sports", Fox Sport USA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRblAvNv8QndYSFDCsJbhgxX-SHUPAonwvk3g&usqp=CAU.png" group-title="Sports", Fox Sport News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports1.png" group-title="Sports", Fox Sport 1
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports2.png" group-title="Sports", Fox Sport 2 
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports3.png" group-title="Sports", Fox Sport 3 
-https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id=FOXSports1.my tvg-logo="https://i.imgur.com/6f2OSif.png" group-title="Sports",FOX SPORT 1
+https://fikrulmkc.my.id/bagus/usee-foxsport1.m3u8
+#EXTINF:-1 tvg-id=FOXSports2.my tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="Sports",FOX SPORT 2
+https://fikrulmkc.my.id/bagus/usee-foxsport2.m3u8
+#EXTINF:-1 tvg-id=FOXSports3.my tvg-logo="https://i.imgur.com/VouoBXj.png" group-title="Sports",FOX SPORT 3
+https://fikrulmkc.my.id/bagus/usee-foxsport3.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/fightsport.png" group-title="Sports", Fight Sport
 http://45.126.83.51/session/0db32410-8ae8-11eb-936a-9a6aa0ed45d8/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports", PTV Sports
