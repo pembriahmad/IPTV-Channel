@@ -57,14 +57,17 @@ http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
 
 
-
+#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/useephoto.png" group-title="Entertainment & Movies", Usee Photo
+https://fikrulmkc.my.id/bagus/usee-dunialain.m3u8
+#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/useeprime.png" group-title="Entertainment & Movies", Usee Prime
+https://fikrulmkc.my.id/bagus/usee-dunialain.m3u8
 #EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/tvn.png" group-title="Entertainment & Movies", tvN
 https://livestreaming-swiftserve-etslive.vidio.com/live/6362/master.m3u8
 #EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/tvnmovies.png" group-title="Entertainment & Movies", tvN Movies
 https://fikrulmkc.my.id/bagus/usee-tvnmovies.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zqtv.png" group-title="Entertainment & Movies", ZQ Drama
 http://iptv.zqstream.com/zqdrama-gen/video.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sonyone.png" group-title="Entertainment & Movies", Sony One
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sonyone.png" group-title="Entertainment & Movies", ONE
 http://45.126.83.51/session/90055b06-8541-11eb-a62f-aa80b65a4a6d/uq2663/h/h143/02.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cinemaworld.png" group-title="Entertainment & Movies", Cinema World
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/index.m3u8
@@ -84,7 +87,7 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
 http://210.210.155.35/session/f0d84244-84ed-11eb-8855-b82a72d63267/qwr9ew/s/s42/index.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kplus.png" group-title="Entertainment & Movies", K-PLUS
 http://210.210.155.35/session/89d21eee-84ed-11eb-8760-c81f66f89318/uq2663/h/h08/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL9ExPWYcSy8odUn0SkAJizeQIB34LhQDpcg&usqp=CAU.png" group-title="Entertainment & Movies", Sony Gem
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL9ExPWYcSy8odUn0SkAJizeQIB34LhQDpcg&usqp=CAU.png" group-title="Entertainment & Movies", Gem TV
 http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="Entertainment & Movies", Zee Bioskop
 http://45.126.83.51/session/bfafe26a-84f9-11eb-b6c4-b6bd9f144e55/qwr9ew/s/s32/index.m3u8
@@ -114,6 +117,10 @@ https://livestreaming-swiftserve-etslive.vidio.com/live/6402/master.m3u8
 https://livestreaming-swiftserve-etslive.vidio.com/live/6747/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZWvp2xm/chinesdramalogo.png" group-title="Entertainment & Movies", Chinese Drama
 https://fikrulmkc.my.id/bagus/usee-chinesedrama.m3u8
+#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/wakuwaku.png" group-title="Entertainment & Movies", tvN Movies
+https://fikrulmkc.my.id/bagus/usee-wakuwaku.m3u8
+#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/dunialain.png" group-title="Entertainment & Movies", tvN Movies
+https://fikrulmkc.my.id/bagus/usee-dunialain.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QJgyvB6/USEESPORTLOGO1.jpg" group-title="Sports", UseeSports
@@ -148,8 +155,10 @@ https://fikrulmkc.my.id/bagus/usee-foxsport3.m3u8
 http://45.126.83.51/session/0db32410-8ae8-11eb-936a-9a6aa0ed45d8/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports", PTV Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/chunks.m3u8
-#EXTINF:-1 tvg-id="egg" tvg-logo="http://kamiselaluada.com/img/egg.png" group-title="Sports", eGG TV
-http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/02.m3u8
+#EXTINF:-1 tvg-id="egg" tvg-logo="http://kamiselaluada.com/img/egg.png" group-title="Sports", eGG Network
+http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/index.m3u8
+#EXTINF:-1 tvg-id="egg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6haB4qnbtWARY8ZF82Y1Rz6DdUOQ0DPfOYw&usqp=CAU.png" group-title="Sports", MDL ID
+https://livestreaming-swiftserve-etslive.vidio.com/live/7646/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/dubaisports1.png" group-title="Sports", DUBAI SPORTS 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
