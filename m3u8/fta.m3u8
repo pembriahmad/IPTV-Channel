@@ -58,9 +58,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-49
 
 
 #EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/useephoto.png" group-title="Entertainment & Movies", Usee Photo
-https://fikrulmkc.my.id/bagus/usee-dunialain.m3u8
+https://fikrulmkc.my.id/bagus/usee-useephoto.m3u8
 #EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/useeprime.png" group-title="Entertainment & Movies", Usee Prime
-https://fikrulmkc.my.id/bagus/usee-dunialain.m3u8
+https://fikrulmkc.my.id/bagus/usee-useeprime.m3u8
 #EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/tvn.png" group-title="Entertainment & Movies", tvN
 https://livestreaming-swiftserve-etslive.vidio.com/live/6362/master.m3u8
 #EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/tvnmovies.png" group-title="Entertainment & Movies", tvN Movies
@@ -117,9 +117,9 @@ https://livestreaming-swiftserve-etslive.vidio.com/live/6402/master.m3u8
 https://livestreaming-swiftserve-etslive.vidio.com/live/6747/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZWvp2xm/chinesdramalogo.png" group-title="Entertainment & Movies", Chinese Drama
 https://fikrulmkc.my.id/bagus/usee-chinesedrama.m3u8
-#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/wakuwaku.png" group-title="Entertainment & Movies", tvN Movies
+#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/wakuwaku.png" group-title="Entertainment & Movies", Waku Waku Japan
 https://fikrulmkc.my.id/bagus/usee-wakuwaku.m3u8
-#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/dunialain.png" group-title="Entertainment & Movies", tvN Movies
+#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/dunialain.png" group-title="Entertainment & Movies", Dunia Lain
 https://fikrulmkc.my.id/bagus/usee-dunialain.m3u8
 
 
