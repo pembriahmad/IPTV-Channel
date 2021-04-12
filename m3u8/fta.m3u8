@@ -146,11 +146,11 @@ https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRblAvNv8QndYSFDCsJbhgxX-SHUPAonwvk3g&usqp=CAU.png" group-title="Sports", Fox Sport News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-id=FOXSports1.my tvg-logo="https://i.imgur.com/6f2OSif.png" group-title="Sports",FOX SPORT 1
-https://fikrulmkc.my.id/bagus/usee-foxsport1.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id=FOXSports2.my tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="Sports",FOX SPORT 2
-https://fikrulmkc.my.id/bagus/usee-foxsport2.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id=FOXSports3.my tvg-logo="https://i.imgur.com/VouoBXj.png" group-title="Sports",FOX SPORT 3
-https://fikrulmkc.my.id/bagus/usee-foxsport3.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/fightsport.png" group-title="Sports", Fight Sport
 http://45.126.83.51/session/0db32410-8ae8-11eb-936a-9a6aa0ed45d8/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports", PTV Sports
