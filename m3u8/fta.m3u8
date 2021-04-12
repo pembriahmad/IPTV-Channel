@@ -198,7 +198,8 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 https://livestreaming-swiftserve-etslive.vidio.com/live/7150/master.m3u8
 #EXTINF:0 tvg-id= tvg-name= tvg-logo="https://pbs.twimg.com/profile_images/1168824925110620161/aClpPizp_400x400.jpg" group-title="News", EuroNews
 https://livestreaming-swiftserve-etslive.vidio.com/live/6412/master.m3u8
-
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bloomberg.png" group-title="News",Bloomberg
+http://210.210.155.35/session/1abcbcd4-9b6e-11eb-9468-c81f66f89318/uq2663/h/h03/index.m3u8
 
 
 
@@ -232,4 +233,4 @@ https://livestreaming-swiftserve-etslive.vidio.com/live/6549/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WxtT6X8/dramworkslogo.png" group-title="Anime & Kids", Dreamworks
 https://fikrulmkc.my.id/bagus/usee-dreamworks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLeOY01EV_Dvzlim9TVDlRlypBarcGza_XKw&usqp=CAU.png" group-title="Anime & Kids", My Kids
-https://fikrulmkc.my.id/bagus/usee-mykids.m3u8
+http://210.210.155.35/session/54809764-9b6f-11eb-a5a6-c81f66f89318/qwr9ew/s/s30/index2.m3u8
