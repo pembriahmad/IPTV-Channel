@@ -206,6 +206,9 @@ https://livestreaming-swiftserve-etslive.vidio.com/live/6412/master.m3u8
 http://45.126.83.51/session/6e82c4c2-8ae7-11eb-beb0-849e8e4d1c39/dr9445/h/h02/02.m3u8
 EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/animax.png" group-title="Anime & Kids", Animax
 http://210.210.155.35/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/02.m3u8
+EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ebskids.png" group-title="Anime & Kids", EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZEDeF0jqf_3JzXcCELjzI3NKXHU=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7052/hip-hip-horee-f5d7ab.jpg" group-title="Anime & Kids", Hip Hip Hore
 https://livestreaming-swiftserve-etslive.vidio.com/live/7052/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/STe84feg1i6KlL2HUbcZT_ocKLk=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6533/zoomoo-7fdb7d.jpg" group-title="Anime & Kids", Zoomoo
