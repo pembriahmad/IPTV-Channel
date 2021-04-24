@@ -220,7 +220,7 @@ https://livestreaming-swiftserve-etslive.vidio.com/live/6685/master.m3u8
 https://livestreaming-swiftserve-etslive.vidio.com/live/6686/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/champions3.png" group-title="Sports", Champions 3
 https://livestreaming-swiftserve-etslive.vidio.com/live/6786/master.m3u8
-#EXTINF:-1 tvg-id="tvrisports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCerOB5Oz1cHGZeYvoCDO6AurGlr4DB_qM1Q&usqp=CAU.png" group-title="Sports",TVRI SPORTS
+#EXTINF:-1 tvg-id="tvrisports" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/tvrisports.png" group-title="Sports",TVRI SPORTS
 http://210.210.155.35:80/session/acc201d6-9b9e-11eb-8016-b82a72d63267/qwr9ew/s/s107/02.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zqtv.png" group-title="Sports", ZQ Sport
 http://iptv.zqstream.com/zqsport-gen/video.m3u8
@@ -291,9 +291,9 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/adsports4.png" group-title="Sports", ABU DHABI SPORTS 4
 http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/bt1.png" group-title="Sports",BT Sport1
+#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/btsports1.png" group-title="Sports",BT Sport1
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/bt2.png" group-title="Sports",BT Sport2
+#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/btsports2.png" group-title="Sports",BT Sport2
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="racing.com" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/racingcom.png" group-title="Sports",RACING.COM 
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8                       
