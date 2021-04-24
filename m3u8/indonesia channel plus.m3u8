@@ -51,7 +51,7 @@ http://202.169.224.76:1935/tv/jitv/chunklist_kamiselaluada.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/hiindo.png" group-title="Indonesia",Hi Indo
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/index.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/mola.png", Mola TV Free
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/molatv.png", Mola TV Free
 https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/index.m3u8
 
 #EXTINF:-1 tvg-id="jtv" tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="Lokal Daerah", JTV
@@ -121,19 +121,19 @@ http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/foxlife.png" group-title="Entertainment & Movies", Fox Life
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/foxfamilymovies.png" group-title="Entertainment & Movies", Fox Family Movies
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/foxfamilymovie.png" group-title="Entertainment & Movies", Fox Family Movies
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/fox.png" group-title="Entertainment & Movies", Fox HD
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/foxcrime.png" group-title="Entertainment & Movies", Fox Crime
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/hbo.png" group-title="Entertainment & Movies", HBO
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/hbo.png" group-title="Entertainment & Movies", HBO
 http://home-tv.web.id/OYESS/hbo.m3u8
-#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/hbofamily.png" group-title="Entertainment & Movies", HBO Family
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/hbofamily.png" group-title="Entertainment & Movies", HBO Family
 http://home-tv.web.id/OYESS/fam.m3u8
-#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/hbohits.png" group-title="Entertainment & Movies", HBO Hits
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/hbohits.png" group-title="Entertainment & Movies", HBO Hits
 http://home-tv.web.id/OYESS/hits.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/440px-HBO_Signature.svg.png" group-title="Entertainment & Movies", HBO Signature
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/hbosignature.png" group-title="Entertainment & Movies", HBO Signature
 http://home-tv.web.id/OYESS/sig.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/redhbo.png" group-title="Entertainment & Movies", Red HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
