@@ -54,9 +54,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-40
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/molatv.png", Mola TV Free
 https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/index.m3u8
 
-#EXTINF:-1 tvg-id="jtv" tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="Lokal Daerah", JTV
+#EXTINF:-1 tvg-id="jtv" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/jtv.png" group-title="Lokal Daerah", JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8
-#EXTINF:-1 tvg-id="balitv" tvg-logo="http://kamiselaluada.com/img/balitv.png" group-title="Lokal Daerah", Bali TV
+#EXTINF:-1 tvg-id="balitv" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/balitv.png" group-title="Lokal Daerah", Bali TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCdnh583/UGTV.png" group-title="Lokal Daerah",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
@@ -141,13 +141,13 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 http://210.210.155.35:80/session/29486ad0-9b9d-11eb-adb6-b82a72d63267/dr9445/h/h20/02.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/tvnmovies.png" group-title="Entertainment & Movies", tvN Movies
 http://210.210.155.35:80/session/86fa742a-9b9d-11eb-adb6-b82a72d63267/dr9445/h/h21/02.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zqtv.png" group-title="Entertainment & Movies", ZQ Drama
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/zqdrama.png" group-title="Entertainment & Movies", ZQ Drama
 http://iptv.zqstream.com/zqdrama-gen/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/one.png" group-title="Entertainment & Movies", ONE
 http://45.126.83.51/session/90055b06-8541-11eb-a62f-aa80b65a4a6d/uq2663/h/h143/02.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/cinemaworld.png" group-title="Entertainment & Movies", Cinema World
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/index.m3u8
-#EXTINF:-1 tvg-id="SBSInternational.kr" tvg-name="SBS International" tvg-country="KR" tvg-language="Korean" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/sbsinternational.png" tvg-url="" group-title="Entertainment & Movies",SBS International
+#EXTINF:-1 tvg-id="SBSInternational.kr" tvg-name="SBS International" tvg-country="KR" tvg-language="Korean" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/sbs.png" tvg-url="" group-title="Entertainment & Movies",SBS International
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8
 #EXTINF:-1 tvg-id="SBSKNN.kr" tvg-name="SBS KNN" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/120px-KNN_logo.svg.png" tvg-url="" group-title="Entertainment & Movies",SBS KNN
 http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
@@ -179,11 +179,11 @@ http://210.210.155.35/session/f72df1be-8ae9-11eb-ba48-c81f66f89318/dr9445/h/h16/
 http://45.126.83.51/session/7d966bfe-8ae6-11eb-a4a8-94b39ae5a0a6/qwr9ew/s/s34/02.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/axn.png" group-title="Entertainment & Movies", AXN
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/02.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/W4814StH/FLIX.png" group-title="Entertainment & Movies",&flix HD
+#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/&flix.png" group-title="Entertainment & Movies",&flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pT1VfTfQ/PICTURES.png" group-title="Entertainment & Movies",&pictures
+#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/&pictures.png" group-title="Entertainment & Movies",&pictures
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/gJ5CN6nD/prive-hd.png" group-title="Entertainment & Movies",&PRIVE HD
+#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/&prive.png" group-title="Entertainment & Movies",&PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/cctv4.png" group-title="Entertainment & Movies",CCTV 4
 http://rr2.dens.tv/s/s19/index.m3u8
@@ -222,11 +222,11 @@ https://livestreaming-swiftserve-etslive.vidio.com/live/6686/master.m3u8
 https://livestreaming-swiftserve-etslive.vidio.com/live/6786/master.m3u8
 #EXTINF:-1 tvg-id="tvrisports" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/tvrisports.png" group-title="Sports",TVRI SPORTS
 http://210.210.155.35:80/session/acc201d6-9b9e-11eb-8016-b82a72d63267/qwr9ew/s/s107/02.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zqtv.png" group-title="Sports", ZQ Sport
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/zqscore.png" group-title="Sports", ZQ Score
 http://iptv.zqstream.com/zqsport-gen/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beinsports1.png" group-title="Sports", Bein Sport 1 English
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beinsports1.png" group-title="Sports", Bein Sport 1 
 https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beinsports2.png" group-title="Sports", Bein Sport 2 English
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beinsports2.png" group-title="Sports", Bein Sport 2 
 https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/foxsportsnews.png" group-title="Sports", Fox Sport News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
@@ -305,55 +305,55 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Stadium_logo_2017.png/250px-Stadium_logo_2017.png" group-title="Sports", Stadium (Sport Network)
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/fightsport.png" group-title="Sports", Fight Sport
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/fightsports.png" group-title="Sports", Fight Sport
 http://45.126.83.51/session/0db32410-8ae8-11eb-936a-9a6aa0ed45d8/uq2663/h/h05/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="Sports",MMA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/mmatv.png" group-title="Sports",MMA TV
 https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6chO5x2.png" group-title="Sports", WWE Network
 http://51.79.208.146:61980/myplay/c_58016/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jakartaglobenews.png" group-title="News", JAKARTA GLOBE NEWS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/jakartaglobenews.png" group-title="News", JAKARTA GLOBE NEWS
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cna.png" group-title="News", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/dw.png" group-title="News", DW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/dw.png" group-title="News", DW
 http://210.210.155.35/session/48488f4a-8af0-11eb-8ad3-b82a72d63267/qwr9ew/s/s26/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/GIGcX5K.png" group-title="News", Berita Satu World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beritasatuworld.png" group-title="News", Berita Satu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bs.png" group-title="News",BERITA SATU
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beritasatu.png" group-title="News",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cnnindo.png" group-title="News",CNN INDONESIA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/cnnindonesia.png" group-title="News",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1949107162_b192000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cnbcindonesia.png" group-title="News",CNBC INDONESIA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/cnbcindonesia.png" group-title="News",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1922065887_b192000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nhkworld.png" group-title="News",NHK World Premium
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/nhkworld.png" group-title="News",NHK World Premium
 http://rr.dens.tv/h/h23/index.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/arirang.png" group-title="News",ARIRANG
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/arirang.png" group-title="News",ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:0 tvg-id= tvg-name= tvg-logo="https://www.abc.net.au/core/assets/abchome.png" group-title="News", ABC Australia
+#EXTINF:0 tvg-id= tvg-name= tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/abc.png" group-title="News", ABC Australia
 https://livestreaming-swiftserve-etslive.vidio.com/live/7150/master.m3u8
-#EXTINF:0 tvg-id= tvg-name= tvg-logo="https://pbs.twimg.com/profile_images/1168824925110620161/aClpPizp_400x400.jpg" group-title="News", EuroNews
+#EXTINF:0 tvg-id= tvg-name= tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/euronews.png" group-title="News", EuroNews
 https://livestreaming-swiftserve-etslive.vidio.com/live/6412/master.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bloomberg.png" group-title="News",Bloomberg
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/bloomberg.png" group-title="News",Bloomberg
 http://210.210.155.35/session/1abcbcd4-9b6e-11eb-9468-c81f66f89318/uq2663/h/h03/index.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/aljazeera.png" group-title="News",Aljazeera
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/aljazeera.png" group-title="News",Aljazeera
 http://210.210.155.35/session/1b5e6d78-9b86-11eb-8209-c81f66f89318/qwr9ew/s/s17/index.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/france24.png" group-title="News",France 24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/france24.png" group-title="News",France 24
 http://210.210.155.35/session/925d019a-9b9b-11eb-b0a7-c81f66f89318/qwr9ew/s/s22/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/aniplus.png" group-title="Anime & Kids", Aniplus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/aniplus.png" group-title="Anime & Kids", Aniplus
 http://45.126.83.51/session/6e82c4c2-8ae7-11eb-beb0-849e8e4d1c39/dr9445/h/h02/02.m3u8
-EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/animax.png" group-title="Anime & Kids", Animax
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/animax.png" group-title="Anime & Kids", Animax
 http://210.210.155.35/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/02.m3u8
-EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ebskids.png" group-title="Anime & Kids", EBS Kids
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/ebskids.png" group-title="Anime & Kids", EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/yoeR2ga1Vj4P1r8ylefnsKC8SeI=/180x180/smart/filters:quality(80):format(webp)/vidio-web-prod-user/uploads/user/avatar/45651656/hiphiphoree-7d19f0.jpg" group-title="Anime & Kids", Hip Hip Hore
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/hiphiphoree.png" group-title="Anime & Kids", Hip Hip Hore
 https://livestreaming-swiftserve-etslive.vidio.com/live/7052/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/440px-ZooMoo_logo.svg.png" group-title="Anime & Kids", Zoomoo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/zoomoo.png" group-title="Anime & Kids", Zoomoo
 https://livestreaming-swiftserve-etslive.vidio.com/live/6533/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4FVF0bg/horeelogo.png" group-title="Anime & Kids", Horee
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/horee.png" group-title="Anime & Kids", Horee
 https://livestreaming-swiftserve-etslive.vidio.com/live/6397/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KbNK2Hn/davincilogo.png" group-title="Anime & Kids", Davinci Learning
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/davinci.png" group-title="Anime & Kids", Davinci Learning
 https://livestreaming-swiftserve-etslive.vidio.com/live/6549/master.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mkidz.png" group-title="Anime & Kids", My Kidz
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/mkidz.png" group-title="Anime & Kids", My Kidz
 http://210.210.155.35:80/session/687783c8-9ba5-11eb-8e17-b82a72d63267/uq2663/h/h98/index.m3u8
