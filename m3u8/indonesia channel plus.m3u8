@@ -334,6 +334,9 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id=FOXSports3.my tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/foxsports3.png" group-title="Sports",FOX SPORT 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/802Hb7S/u.png" ,ESPN U ( Mynetqu.id )
+https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/espn.png" group-title="Sports", ESPN
 https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/espn2.png" group-title="Sports", ESPN 2
