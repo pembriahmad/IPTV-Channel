@@ -130,8 +130,6 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
 #EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/&prive.png" group-title="Entertainment & Movies",&PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/cctv4.png" group-title="Entertainment & Movies",CCTV 4
-http://rr2.dens.tv/s/s19/index.m3u8
 #EXTINF:-1 group-title="Entertainment & Movies" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/citrabioskop.png", Citra Bioskop
 https://livestreaming-swiftserve-etslive.vidio.com/live/6684/master.m3u8
 #EXTINF:-1 group-title="Entertainment & Movies" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/citradrama.png", Citra Drama
@@ -185,6 +183,8 @@ https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/chunks.m3u8
 #EXTINF:-1 tvg-id="egg" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/egg.png" group-title="Sports", eGG Network
 http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/index.m3u8
+#EXTINF:-1 tvg-id="cctv5" tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="Sports",CCTV-5
+http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true1.png" group-title="Sports", True Premier 1 
 https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8                       
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true2.png" group-title="Sports", True Premier 2 
@@ -271,6 +271,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1922065887_b
 http://rr.dens.tv/h/h23/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/arirang.png" group-title="News",ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/cctv4.png" group-title="Entertainment & Movies",CCTV 4
+http://rr2.dens.tv/s/s19/index.m3u8
 #EXTINF:0 tvg-id= tvg-name= tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/abc.png" group-title="News", ABC Australia
 https://livestreaming-swiftserve-etslive.vidio.com/live/7150/master.m3u8
 #EXTINF:0 tvg-id= tvg-name= tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/euronews.png" group-title="News", EuroNews
