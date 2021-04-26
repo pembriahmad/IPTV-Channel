@@ -177,18 +177,22 @@ http://210.210.155.35:80/session/acc201d6-9b9e-11eb-8016-b82a72d63267/qwr9ew/s/s
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/zqscore.png" group-title="Sports", ZQ Score
 http://iptv.zqstream.com/zqsport-gen/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beinsports1.png" group-title="Sports", Bein Sport 1 
-https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=bein1
+#https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beinsports2.png" group-title="Sports", Bein Sport 2 
-https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=bein2
+#https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/foxsportsnews.png" group-title="Sports", Fox Sport News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-id=FOXSports1.my tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/foxsports1.png" group-title="Sports",FOX SPORT 1
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=foxsport1
+#https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id=FOXSports2.my tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/foxsports2.png" group-title="Sports",FOX SPORT 2
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=foxsport2
+#https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id=FOXSports3.my tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/foxsports3.png" group-title="Sports",FOX SPORT 3
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=foxsport3
+#https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/espnu.png" ,ESPN U 
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/espn.png" group-title="Sports", ESPN
@@ -308,6 +312,8 @@ http://210.210.155.35/session/1abcbcd4-9b6e-11eb-9468-c81f66f89318/uq2663/h/h03/
 http://210.210.155.35/session/1b5e6d78-9b86-11eb-8209-c81f66f89318/qwr9ew/s/s17/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/france24.png" group-title="News",France 24
 http://210.210.155.35/session/925d019a-9b9b-11eb-b0a7-c81f66f89318/qwr9ew/s/s22/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/seatoday.png" group-title="News", Sea Today
+https://livestreaming-swiftserve-etslive.vidio.com/live/7687/master.m3u8                       
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oVIW9eB.png" group-title="Knowledge",  DISCOVERY CHANELL
