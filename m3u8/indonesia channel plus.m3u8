@@ -145,6 +145,26 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Movies" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/zing.png", ZING
 https://livestreaming-swiftserve-etslive.vidio.com/live/6747/master.m3u8
+#EXTINF:-1, tvg-logo="https://www.useetv.com/assets/images/channel/logo_insert_small1.png"?v=2.0.0.13 group-title="Entertainment & Movies", Insert
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=insert
+#EXTINF:-1, tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png"?v=2.0.0.13 group-title="Entertainment & Movies",BIOSKOP INDONESIA
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=bioskopindonesia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hp8FKpZ/fliklogo.png" group-title="Entertainment & Movies", Flik
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=flik
+#EXTINF:-1 tvg-ID= tvg-name=IMC tvg-logo="https://i.postimg.cc/9F28R2hb/imc.jpg group-title="Entertainment & Movies",IMC
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=imc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93cPR5K/dunialainlogo.png" group-title="Entertainment & Movies",DUNIA LAIN
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=dunialain
+#EXTINF:-1 tvg-ID=GalaxyPremium.id group-title="Entertainment & Movies" tvg-logo="https://i.postimg.cc/rsSyrVhv/galaxypre.png", Galaxy Premium
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=galaxypremium
+#EXTINF:-1 tvg-ID= tvg-name=Galaxy tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Galaxy_TV.png" group-title="Entertainment & Movies",Galaxy
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=galaxy
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4QhR65/wbttv.png" group-title="Entertainment & Movies",Warner TV
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=warner
+#EXTINF:-1 tvg-id=WakuWakuJapan.id tvg-name=Waku Waku Japan tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title=ASIA,WAKU WAKU JAPAN
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=wakuwaku
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsyNF8BY/lifetime-logo.jpg group-title="Entertainment & Movies", Lifetime
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=lifetime
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/champions1.png" group-title="Sports", Champions 1
 https://livestreaming-swiftserve-etslive.vidio.com/live/6685/master.m3u8
@@ -250,6 +270,11 @@ https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 http://51.79.208.146:61980/myplay/c_58016/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/golfchannel.png" ,Golf Channel
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QJgyvB6/USEESPORTLOGO1.jpg group-title="Sports", UseeSports
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=useesport
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QJgyvB6/USEESPORTLOGO1.jpg group-title="Sports", UseeSports 2
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=useesports2
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/jakartaglobenews.png" group-title="News", JAKARTA GLOBE NEWS
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
@@ -284,13 +309,34 @@ http://210.210.155.35/session/1b5e6d78-9b86-11eb-8209-c81f66f89318/qwr9ew/s/s17/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/france24.png" group-title="News",France 24
 http://210.210.155.35/session/925d019a-9b9b-11eb-b0a7-c81f66f89318/qwr9ew/s/s22/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oVIW9eB.png" group-title="Knowledge",  DISCOVERY CHANELL
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=disco
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZgbCp4/historylogo.png" group-title="Knowledge", History Channel
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=history
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_big.png"?v=2.0.0.13 group-title="Knowledge",NATIONAL GEOGRAPHIC
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=natgeo
+#EXTINF:-1 tvg-ID= tvg-name= tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_big.png"?v=2.0.0.13 group-title="Knowledge",NAT GEO WILD
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=natgeowild
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rH2KQJf/natgeopeoplelogo.png" group-title="Knowledge",NAT GEO PEOPLE
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=natgeopeople
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G3hhYM4/crimeinveslogo.png" group-title="Knowledge", Crime Investigation
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=crimeinvestigation
+#EXTINF:-1 tvg-ID=AFC group-title="Knowledge" tvg-logo="https://i.postimg.cc/5txBm909/AFN-net.png", AFN
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=afc
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqYmT0Y5/eat-go.png",  group-title="Knowledge", Eat & Go
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=eatgo
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/aniplus.png" group-title="Anime & Kids", Aniplus
 http://45.126.83.51/session/6e82c4c2-8ae7-11eb-beb0-849e8e4d1c39/dr9445/h/h02/02.m3u8
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/animax.png" group-title="Anime & Kids", Animax
 http://210.210.155.35/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/02.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M8xBrts/nickelodeon-logo.png" group-title="Anime & Kids", Nickelodeon
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=nickelodeon
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/nickjr.png" group-title="Anime & Kids", Nick junior
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=nickjr
+#http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/nicktoons.png" group-title="Anime & Kids", Nicktoon
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/ebskids.png" group-title="Anime & Kids", EBS Kids
@@ -305,3 +351,13 @@ https://livestreaming-swiftserve-etslive.vidio.com/live/6397/master.m3u8
 https://livestreaming-swiftserve-etslive.vidio.com/live/6549/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/mkidz.png" group-title="Anime & Kids", My Kidz
 http://210.210.155.35:80/session/687783c8-9ba5-11eb-8e17-b82a72d63267/uq2663/h/h98/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W6K5K00/cnlogo.png" group-title="Anime & Kids", Cartoon Network
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=cartoonnetwork
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sH7sMKY/babyfirstlogo.png" group-title="Anime & Kids",BabyFirst
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=babyfirst
+#EXTINF:-1 tvg-id= tvg-logo="https://i.imgur.com/9u5HOkL.png" group-title="Anime & Kids",Boomerang
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=boomerang
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WHtsG8b/duniaanaklogo.png" group-title="Anime & Kids", Dunia Anak
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=duniaanak
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WxtT6X8/dramworkslogo.png" group-title="Anime & Kids", Dreamworks
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=dreamworks
