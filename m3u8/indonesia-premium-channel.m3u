@@ -1,12 +1,12 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/rcti.png" group-title="Indonesia", RCTI
-https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_256000=8-mp4a_64000_eng=2.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/rcti.m3u8
 #EXTINF: -1 tvg-id="mnctv" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/mnctv.png" group-title="Indonesia", MNCTV
-https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_256000=8-mp4a_64000_eng=2.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/mnctv.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/gtv.png" group-title="Indonesia", GTV
-https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_256000=8-mp4a_64000_eng=2.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/gtv.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/inews.png" group-title="Indonesia", iNEWS
-https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_256000=8-mp4a_64000_eng=2.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/inews.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/transtv.png" group-title="Indonesia", Trans TV
 https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/transtv.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/trans7.png" group-title="Indonesia", Trans 7
@@ -34,23 +34,23 @@ https://livestreaming-swiftserve-etslive.vidio.com/live/5415/master.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/magnatv.png" group-title="Indonesia", Magna Channel
 https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/magna.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/mytv.png" group-title="Indonesia", My TV
-http://210.210.155.35/session/ed2bf084-84aa-11eb-8948-9f0fa42f0d75/qwr9ew/s/s46/index.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/mytv.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/daaitv.png" group-title="Indonesia", Daai TV
-http://210.210.155.35/session/690f8246-9b9a-11eb-9529-b82a72d63267/qwr9ew/s/s13/index.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/daai.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/tv9.png" group-title="Indonesia", TV9
-http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/tv9.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/elshinta.png" group-title="Indonesia", Elshinta TV
-http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/elshinta.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/nusantaratv.png" group-title="Indonesia", Nusantara TV
 https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/nusantara.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/rodjatv.png" group-title="Indonesia", Rodja TV
-http://rr2.dens.tv/s/s14/index.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/rodja.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/rrinet.png" group-title="Indonesia", RRI NET
 http://36.89.47.217:11935/rrinet/live/chunklist_kamiselaluada.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/jitv.png" group-title="Indonesia", JITV
 http://202.169.224.76:1935/tv/jitv/chunklist_kamiselaluada.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/molatv.png" group-title="Indonesia", Mola TV Free
-https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/mola.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/molatv.m3u8
 #EXTINF: -1 tvg-id="jtv" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/jtv.png" group-title="Indonesia", JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8
 #EXTINF: -1 tvg-id="balitv" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/balitv.png" group-title="Indonesia", Bali TV
