@@ -20,19 +20,19 @@ https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/kompas.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/metrotv.png" group-title="Indonesia", Metro TV
 https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/metrotv.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/net.png" group-title="Indonesia", NET.
-http://210.210.155.35/qwr9ew/s/s08/02.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/net.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/rtv.png" group-title="Indonesia", RTV
-http://210.210.155.35/qwr9ew/s/s12/02.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/rtv.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/sctv.png" group-title="Indonesia", SCTV
-http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/sctv.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/tvone.png" group-title="Indonesia", TVONE
-http://210.210.155.35/qwr9ew/s/s105/02.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/tvone.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/tvri.png" group-title="Indonesia", TVRI
-http://210.210.155.35/qwr9ew/s/s11/02.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/tvri.m3u8
 #EXTINF: -1 tvg-id="jtv" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/jaktv.png" group-title="Indonesia", Jak TV
 https://livestreaming-swiftserve-etslive.vidio.com/live/5415/master.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/magnatv.png" group-title="Indonesia", Magna Channel
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/magna.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/mytv.png" group-title="Indonesia", My TV
 http://210.210.155.35/session/ed2bf084-84aa-11eb-8948-9f0fa42f0d75/qwr9ew/s/s46/index.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/daaitv.png" group-title="Indonesia", Daai TV
@@ -42,7 +42,7 @@ http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/elshinta.png" group-title="Indonesia", Elshinta TV
 http://210.210.155.35/qwr9ew/s/s10/01.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/nusantaratv.png" group-title="Indonesia", Nusantara TV
-https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/nusantara.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/rodjatv.png" group-title="Indonesia", Rodja TV
 http://rr2.dens.tv/s/s14/index.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/rrinet.png" group-title="Indonesia", RRI NET
@@ -50,7 +50,7 @@ http://36.89.47.217:11935/rrinet/live/chunklist_kamiselaluada.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/jitv.png" group-title="Indonesia", JITV
 http://202.169.224.76:1935/tv/jitv/chunklist_kamiselaluada.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/molatv.png" group-title="Indonesia", Mola TV Free
-https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/index.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/mola.m3u8
 #EXTINF: -1 tvg-id="jtv" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/jtv.png" group-title="Indonesia", JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8
 #EXTINF: -1 tvg-id="balitv" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/balitv.png" group-title="Indonesia", Bali TV
@@ -66,29 +66,31 @@ http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/foxcrime.png" group-title="Entertainment & Movies", Fox Crime
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/hbo.png" group-title="Entertainment & Movies", HBO
-http://home-tv.web.id/OYESS/hbo.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/hbo.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/hbofamily.png" group-title="Entertainment & Movies", HBO Family
-http://home-tv.web.id/OYESS/fam.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/hbofamily.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/hbohits.png" group-title="Entertainment & Movies", HBO Hits
-http://home-tv.web.id/OYESS/hits.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/hbohits.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/hbosignature.png" group-title="Entertainment & Movies", HBO Signature
-http://home-tv.web.id/OYESS/sig.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/hbosignature.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/redhbo.png" group-title="Entertainment & Movies", Red HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/redhbo.m3u8
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/cinemax.png" group-title="Entertainment & Movies", CINEMAX
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/cinemax.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/tvn.png" group-title="Entertainment & Movies", tvN
-http://210.210.155.35:80/session/29486ad0-9b9d-11eb-adb6-b82a72d63267/dr9445/h/h20/02.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/tvn.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/tvnmovies.png" group-title="Entertainment & Movies", tvN Movies
-http://210.210.155.35:80/session/86fa742a-9b9d-11eb-adb6-b82a72d63267/dr9445/h/h21/02.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/tvnmovies.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/zqdrama.png" group-title="Entertainment & Movies", ZQ Drama
 http://iptv.zqstream.com/zqdrama-gen/video.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/one.png" group-title="Entertainment & Movies", ONE
-http://45.126.83.51/session/90055b06-8541-11eb-a62f-aa80b65a4a6d/uq2663/h/h143/02.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/one.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/cinemaworld.png" group-title="Entertainment & Movies", Cinema World
-http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/index.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/cinemaworld.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/mycinema.png" group-title="Entertainment & Movies", MY CINEMA
-http://rr.dens.tv/h/h90/index2.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/mycinema.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/mycinemaeurope.png" group-title="Entertainment & Movies", MY CINEMA EUROPE
-http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/02.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/mycinemaeurope.m3u8
 #EXTINF: -1 tvg-id="SBSInternational.kr" tvg-name="SBS International" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/sbs.png" group-title="Entertainment & Movies", SBS International
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8
 #EXTINF: -1 tvg-id="SBSPlus.kr" tvg-name="SBS Plus" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/sbsplus.png" group-title="Entertainment & Movies", SBS Plus
@@ -96,31 +98,31 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/playlis
 #EXTINF: -1 tvg-id="SBSStar.kr" tvg-name="SBS Star" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/sbsstar.png" group-title="Entertainment & Movies", SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/celestialmovies.png" group-title="Entertainment & Movies", Celestial Movie
-http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/celestialmovies.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/celestialclassicmovies.png" group-title="Entertainment & Movies", CELESTIAL CLASSIC MOVIES
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/kbsworld.png" group-title="Entertainment & Movies", KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/kbsworld.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/kdrama.png" group-title="Entertainment & Movies", K-Drama
-http://210.210.155.35/session/f0d84244-84ed-11eb-8855-b82a72d63267/qwr9ew/s/s42/index.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/kdrama.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/kplus.png" group-title="Entertainment & Movies", K-PLUS
-http://210.210.155.35/session/89d21eee-84ed-11eb-8760-c81f66f89318/uq2663/h/h08/index.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/kplus.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/gem.png" group-title="Entertainment & Movies", Gem TV
-http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/gem.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/zeebioskop.png" group-title="Entertainment & Movies", Zee Bioskop
-http://45.126.83.51/session/bfafe26a-84f9-11eb-b6c4-b6bd9f144e55/qwr9ew/s/s32/index.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/zeebioskop.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/kix.png" group-title="Entertainment & Movies", KIX
-http://210.210.155.35/session/a45c93be-048b-11e9-8761-b82a72d63267/uq2663/h/h07/02.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/kix.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/hits.png" group-title="Entertainment & Movies", HITS
-http://45.126.83.51/session/31056886-8ae5-11eb-8b40-9e7d8430bcf3/uq2663/h/h37/02.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/hits.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/blueantextreme.png" group-title="Entertainment & Movies", Blue Ant Extreme
-http://45.126.83.51/session/f59ee8ac-8ae5-11eb-86c2-8144a241ef32/dr9445/h/h15/02.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/blueantextreme.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/blueantentertainment.png" group-title="Entertainment & Movies", Blue Ant Entertainmet
-http://210.210.155.35/session/f72df1be-8ae9-11eb-ba48-c81f66f89318/dr9445/h/h16/index.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/blueantentertainment.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/thrill.png" group-title="Entertainment & Movies", THRILL
-http://45.126.83.51/session/7d966bfe-8ae6-11eb-a4a8-94b39ae5a0a6/qwr9ew/s/s34/02.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/thrill.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/axn.png" group-title="Entertainment & Movies", AXN
-http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/02.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/axn.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/&flix.png" group-title="Entertainment & Movies", &flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/&pictures.png" group-title="Entertainment & Movies", &pictures
@@ -128,13 +130,13 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/&prive.png" group-title="Entertainment & Movies", &PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/citrabioskop.png" group-title="Entertainment & Movies", Citra Bioskop
-https://livestreaming-swiftserve-etslive.vidio.com/live/6684/master.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/citrabioskop.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/citradrama.png" group-title="Entertainment & Movies", Citra Drama
-https://livestreaming-swiftserve-etslive.vidio.com/live/6401/master.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/citradrama.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/citradangdut.png" group-title="Entertainment & Movies", Citra Dangdut
-https://livestreaming-swiftserve-etslive.vidio.com/live/6587/master.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/citradangdut.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/citraentertainment.png" group-title="Entertainment & Movies", Citra Entertainment
-https://livestreaming-swiftserve-etslive.vidio.com/live/6402/master.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/citraentertainment.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/bfilx.png" group-title="Entertainment & Movies", Bflix MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/wowtv.png" group-title="Entertainment & Movies", WOW TV
@@ -258,7 +260,7 @@ http://210.210.155.35/session/48488f4a-8af0-11eb-8ad3-b82a72d63267/qwr9ew/s/s26/
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beritasatuworld.png" group-title="News", Berita Satu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beritasatu.png" group-title="News", BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/beritasatu.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/cnnindonesia.png" group-title="News", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1949107162_b192000_sleng.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/cnninternational.png" group-title="News", CNN International
@@ -280,7 +282,7 @@ http://210.210.155.35/session/1b5e6d78-9b86-11eb-8209-c81f66f89318/qwr9ew/s/s17/
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/france24.png" group-title="News", France 24
 http://210.210.155.35/session/925d019a-9b9b-11eb-b0a7-c81f66f89318/qwr9ew/s/s22/index.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/seatoday.png" group-title="News", Sea Today
-https://livestreaming-swiftserve-etslive.vidio.com/live/7687/master.m3u8
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/seatodaay.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/cgtndocumentary.png" group-title="Knowledge", CGTN Documentary
 http://210.210.155.35:80/session/70165e80-a689-11eb-81ff-b82a72d63267/qwr9ew/s/s20/02.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/smithsonian.png" group-title="Knowledge", Smithsonian
