@@ -176,9 +176,9 @@ http://210.210.155.35:80/session/acc201d6-9b9e-11eb-8016-b82a72d63267/qwr9ew/s/s
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/zqscore.png" group-title="Sports", ZQ Score
 http://iptv.zqstream.com/zqsport-gen/video.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beinsports1.png" group-title="Sports", Bein Sport 1
-https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=bein1
+https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/beinsports2.png" group-title="Sports", Bein Sport 2
-https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=bein2
+https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/foxsportsnews.png" group-title="Sports", Fox Sport News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF: -1 tvg-id="FOXSports1.my" tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/foxsports1.png" group-title="Sports", FOX SPORT 1
